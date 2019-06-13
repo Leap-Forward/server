@@ -1,4 +1,5 @@
 .envrc
+.env
 
 /owncloud-*.tar.bz2
 /user_ldap*.tar.gz

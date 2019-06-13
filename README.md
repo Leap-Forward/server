@@ -1,5 +1,8 @@
 # ownCloud: Server
 
+# For large files: `docker cp .htaccess owncloud_owncloud_1:/var/www/owncloud` after `docker-compose up -d`
+
+
 [![Build Status](https://drone.owncloud.com/api/badges/owncloud-docker/server/status.svg)](https://drone.owncloud.com/owncloud-docker/server)
 [![](https://images.microbadger.com/badges/image/owncloud/server.svg)](https://microbadger.com/images/owncloud/server "Get your own image badge on microbadger.com")
 
